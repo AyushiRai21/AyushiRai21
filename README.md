@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AyushiRai
-- 👀 I’m interested in coding , web designing  etc
-- 🌱 I’m currently learning various coding languages
-- 💞️ I’m looking to collaborate on a coding based campany 
-- 📫 How to reach me - by emaling me on ayushirai215@gmail.com
+### 👋 Hi there! I'm Ayushi Rai
 
-<!---
-Hey everybody , 
-I am currently doing by college and am in fisrt year btech cse core branch and is keen to learn code and currently doing and practising on the various coding languages
---->
+- 💻 Passionate about coding, web design, and technology
+- 🌱 Currently learning various programming languages and tools
+- 🤝 Open to collaboration on tech projects or roles in coding-based companies
+- 📫 Reach me at: [ayushirai215@gmail.com](mailto:ayushirai215@gmail.com)
+
+Let's build something amazing together! 🚀
